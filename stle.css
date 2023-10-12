@@ -1,0 +1,174 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  background-color: silver;
+}
+
+header {
+  font-variant: small-caps;
+  background-color: white;
+  padding: 1em;
+  margin: 0;
+  font-size: 200%;
+}
+
+header img {
+  height: 200px;
+  width: 200px;
+}
+
+header nav {
+  padding-top: 5px;
+  margin-right: 20px;
+  bottom: 20px;
+  text-align: right;
+}
+
+header nav ul {
+  list-style-type: none;
+}
+header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
+  text-decoration: underline;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.hero {
+  height: 200px;
+  width: 100%;
+  background-color: rgba(26, 23, 23, 0.616);
+  margin-bottom: 25px;
+  background-image: url("coding.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.25em;
+}
+
+.About-Me {
+  background-color: white;
+  border: 2px solid black;
+  width: 100%;
+  margin-bottom: 2em;
+  padding: 2em;
+}
+
+.Work {
+  background-color: white;
+  border: 2px solid black;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2em;
+  padding: 2em;
+}
+
+article {
+  background-color: purple;
+  color: white;
+  flex-basis: 300px;
+  flex-grow: 1;
+  flex-shrink: 0;
+  position: relative;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  /* margin-right: 1em; */
+  /* margin-top: 5em; */
+  box-sizing: border-box;
+  border: 2px solid black;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+article h3 {
+  background-color: silver;
+  color: black;
+  padding: 0.25em;
+  position: absolute;
+  bottom: 0.5em;
+  box-sizing: border-box;
+  /* width: 50%; */
+}
+
+article:hover {
+  transition: 0.5s;
+  transform: scale(110%);
+  z-index: 100;
+}
+
+#first {
+  height: 200px;
+  display: block;
+  background-image: url("coding2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#second {
+  height: 200px;
+  display: block;
+  background-image: url("coding3.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#third {
+  height: 200px;
+  display: block;
+  background-image: url("coding4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#fourth {
+  height: 200px;
+  display: block;
+  background-image: url("coding5.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.Contact-Info {
+  background-color: white;
+  border: 2px solid black;
+  width: 100%;
+  padding: 2em;
+  text-align: center;
+}
+
+.Contact-Info ul {
+  list-style-type: none;
+}
+
+.Contact-Info ul li {
+  display: inline-block;
+  padding: 1em;
+}
+
+footer {
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 0.5em;
+  font-weight: bold;
+}
