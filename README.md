@@ -150,7 +150,7 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 
-- The links shown below will being you to the desired section on the portfolio. The "LinkedIn" link will bring you to the developer's LinkedIn profile. Please refer to the below images to see how the links work:
+- The links shown below will bring you to the desired section on the portfolio. The "LinkedIn" link will bring you to the developer's LinkedIn profile. Please refer to the below images to see how the links work:
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 
@@ -180,7 +180,7 @@ See the [open issues](https://github.com/gmeyer24/HW02-Advanced-CSS-Portfolio/is
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -193,7 +193,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
