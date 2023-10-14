@@ -156,6 +156,7 @@ This is an example of how to list things you need to use the software and how to
 
 - If you hover over a work project, the image will enlarge and allow you to click on it. This will open up the deployed project in your broswer. See images below:
 ![Alt text](image-3.png)
+![Alt text](image-5.png)
 
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
